@@ -1,0 +1,7 @@
+software-properties-common
+apt-transport-https
+curl
+gnupg2
+mc
+unzip
+ansible

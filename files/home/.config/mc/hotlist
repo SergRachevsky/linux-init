@@ -1,0 +1,5 @@
+ENTRY "/" URL "/"
+ENTRY "/etc" URL "/etc"
+ENTRY "/home/serg/src" URL "/home/serg/src"
+ENTRY "/var/log" URL "/var/log"
+ENTRY "/var/tmp" URL "/var/tmp"
